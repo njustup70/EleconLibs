@@ -1,5 +1,11 @@
 # 电控开源驱动库 <br> EleconLibs
-<img src="readme_img/Up70.jpg" alt="示例图片" width="180" height="180">
+<img src="readme_img/Up70Art_Ramp.png" alt="示例图片" width="180" height="100">
+
+> [!WARNING]
+> 本仓库已经被 ***弃用***，其内容不再被持续更新维护  
+> This Repo is ***deprecated***, and its content will no longer be updated and maintained.
+>
+> Up70战队电控组的主要开源库现在为 `REACTOR 70` 框架：[Reactor70](https://github.com/njustup70/Reactor70)
 
 ## 简介
 本仓库是Up70电控组的软件驱动库，包含了许多驱动和标准文件。
